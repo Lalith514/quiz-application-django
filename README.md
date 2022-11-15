@@ -18,4 +18,4 @@ Running locally
 
 
 To run at localhost. It will run on port 8000 by default.
-python manage.py runserver
+python manage.py runserver.
